@@ -1,0 +1,5 @@
+{
+  "name": "Secure OAuth Architecture Visualizer",
+  "description": "Interactive flowchart visualizing a secure Google OAuth architecture using a clean domain separation pattern.",
+  "requestFramePermissions": []
+}
