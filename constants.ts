@@ -96,7 +96,7 @@ export const STEPS: Step[] = [
     showDataPacket: {
       from: DomainType.CLEAN,
       to: DomainType.PROMO,
-      label: "OK (Cookie)",
+      label: "OK (Session confirmed)",
       isSecure: true
     }
   }
